@@ -1,6 +1,7 @@
 {
   "name": "portfolio-v1-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "portfolio-v1-backend DESC",
   "main": "server.js",
   "scripts": {
